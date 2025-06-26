@@ -17,4 +17,5 @@ Overall, when both parents are taller, predicted offspring height is also taller
 
 The color gradient shifts more noticeably along the X-axis than the Y-axis, suggesting that father’s height has a stronger influence on the offspring’s predicted height, especially for male offspring.
 
-[Open PDF Report](Homework_1.pdf)
+[View PDF Report](https://github.com/amarzayasonomdagva/predicting-offspringheights-based-on-parentsheights/raw/main/Homework%20-%201.pdf)
+
